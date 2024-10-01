@@ -1,4 +1,4 @@
 # WEATHER-APP-PROJECT
 THIS PROJECT CHECKS WEATHER DETAILS OF ANY CITY USING WEATHER API.
 LIVE SITE:
-https://pradhumn-mittal.github.io/WEATHER-APP-PROJECT/
+https://varnit766.github.io/Weather-app/
